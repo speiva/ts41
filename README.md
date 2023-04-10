@@ -37,7 +37,7 @@ Die Türen sind holzfurniert, die Innentreppe ist aus Holz.
 ## Baugenehmigungen
 
 ### Etwaige Nachgenehmigung von anderer Innenraumaufteilung prüfen
-* Siehe [Zu klären bevor wir überhaupt weiter machen](#zu-klaren-bevor-wir-uberhaupt-weiter-machen)
+* Siehe [Zu klären bevor wir überhaupt weiter machen](#zu-klären-bevor-wir-überhaupt-weiter-machen)
 
 ### Voranfragen müssen mglw. für folgende Maßnahmen gestellt werden:
 * [Erneuerung des Dachstuhls und Erstellung eines Kniestocks](#erneuerung-des-dachstuhls-und-erstellung-eines-kniestocks)
