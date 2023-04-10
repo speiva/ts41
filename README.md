@@ -17,6 +17,11 @@ Die gefließten Tageslicht-Badezimmer sind mit Fenster nach Nord-Nord-West.
 
 Die Türen sind holzfurniert, die Innentreppe ist aus Holz.
 
+## Zu Klären bevor wir überhaupt weiter machen
+
+* Warnung: Die Innenaufteilung entspricht nicht den Bauplänen. Rücksprache mit dem Bauamt steht aus.
+* Bemerkung: Die Abmessungen des Hauses wurden bisher nicht überprüft.
+
 ## Finanzen
 
 - Langfristige Investitionen in Nachhaltigkeit und Langlebigkeit werden angestrebt.
@@ -31,7 +36,10 @@ Die Türen sind holzfurniert, die Innentreppe ist aus Holz.
 
 ## Baugenehmigungen
 
-## Voranfragen müssen mglw. für folgende Maßnahmen gestellt werden:
+### Etwaige Nachgenehmigung von anderer Innenraumaufteilung prüfen
+* Siehe [Zu klären bevor wir überhaupt weiter machen](#zu-klaren-bevor-wir-uberhaupt-weiter-machen)
+
+### Voranfragen müssen mglw. für folgende Maßnahmen gestellt werden:
 * [Erneuerung des Dachstuhls und Erstellung eines Kniestocks](#erneuerung-des-dachstuhls-und-erstellung-eines-kniestocks)
 * [Vergößern bestehender Fenster](#vergrößern-bestehender-fenster)
 * [Zusätzliche Fenster](#zusätzliche-fenster-auf-der-nord--und-südseite)
@@ -53,7 +61,6 @@ Zum Schutz vor Sonne soll ein Sonneschutz installiert werden. Realisiert werden 
 
 
 ### Kaffeeecke / Pausenraum / Kinderspielzimmer
-
 
 
 ### Materiallagerung
